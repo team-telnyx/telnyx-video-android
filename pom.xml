@@ -4,6 +4,4 @@
   <groupId>com.telnyx.video.sdk.telnyx_video</groupId>
   <artifactId>telnyx_video</artifactId>
   <version>0.0.1</version>
-  <packaging>aar</packaging>
-  <dependencies/>
 </project>
