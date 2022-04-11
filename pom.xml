@@ -3,5 +3,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.telnyx.video.sdk.telnyx_video</groupId>
   <artifactId>telnyx_video</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3</version>
 </project>
