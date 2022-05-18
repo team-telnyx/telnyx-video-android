@@ -4,7 +4,6 @@
   <groupId>com.telnyx.video.sdk.telnyx_video</groupId>
   <artifactId>telnyx_video</artifactId>
   <version>0.2.1</version>
-  <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
