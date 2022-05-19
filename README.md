@@ -16,9 +16,12 @@ allprojects {
 2. Add the dependency within the app level build file:
 ```groovy
 dependencies {
-	        implementation 'com.github.team-telnyx:telnyx-video-android:Tag'
+		implementation ('com.github.team-telnyx:telnyx-meet-android-sdk:0.2.3@aar'){transitive=true}
+
 	}
 ```
+
+Note that '0.2.3' should be replaced with the newest version represented by the Jitpack badge
 
 Tag should be replaced with the release version.
 <br>
