@@ -16,7 +16,7 @@ allprojects {
 2. Add the dependency within the app level build file:
 ```groovy
 dependencies {
-		implementation ('com.github.team-telnyx:telnyx-meet-android-sdk:0.3.0@aar'){transitive=true}
+		implementation ('com.github.team-telnyx:telnyx-meet-android-sdk:0.3.1@aar'){transitive=true}
 	}
 ```
 
