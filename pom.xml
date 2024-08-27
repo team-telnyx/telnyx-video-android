@@ -36,9 +36,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.webrtc</groupId>
-      <artifactId>google-webrtc</artifactId>
-      <version>1.0.32006</version>
+      <groupId>com.dafruits</groupId>
+      <artifactId>webrtc</artifactId>
+      <version>123.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -57,12 +57,6 @@
       <groupId>com.google.mlkit</groupId>
       <artifactId>segmentation-selfie</artifactId>
       <version>16.0.0-beta4</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>io.github.zncmn.libyuv</groupId>
-      <artifactId>core</artifactId>
-      <version>0.0.8</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
