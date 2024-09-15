@@ -61,12 +61,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>Telnyx Android Video SDK</groupId>
-      <artifactId>yuvcore</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.bugsnag</groupId>
       <artifactId>bugsnag-android</artifactId>
       <version>5.+</version>
